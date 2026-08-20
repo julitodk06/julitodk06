@@ -17,11 +17,11 @@ Based in **Yerba Buena, Tucumán, Argentina**. Open to remote and international 
 
 ## Selected systems
 
-| System                             | Scope                                                                                  | Architecture signals                                                                             |
-| ---------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| **LexiaCode OS**                   | Private AI-enabled CRM and commercial operations platform with 15+ operational modules | React, Node.js, Express, Prisma, SQLite, role-based controls, human-in-the-loop workflows        |
-| **Lexia Tokenization Platform**    | Institutional B2B foundation for RWA tokenization                                      | NestJS, Next.js, PostgreSQL, Redis, multi-tenancy, RLS, least privilege, append-only audit trail |
-| **Institutional AI Modernization** | Low-risk AI adoption and automation blueprints for organizations                       | LLM workflows, human review, reporting controls, structured approvals                            |
+| System | Scope | Architecture signals |
+| --- | --- | --- |
+| **[LexiaCode OS](https://github.com/julitodk06/lexiacode-os-case-study)** | Private AI-enabled CRM and commercial operations platform with 15+ operational modules | React, Node.js, Express, Prisma, SQLite, role-based controls, human-in-the-loop workflows |
+| **[RWA Tokenization Architecture](https://github.com/julitodk06/rwa-tokenization-architecture)** | Public case study documenting the private platform's Phase 1 institutional B2B foundation | NestJS, Next.js, PostgreSQL, Redis, multi-tenancy, RLS, least privilege, append-only audit trail |
+| **Institutional AI Modernization** | Low-risk AI adoption and automation blueprints for organizations | LLM workflows, human review, reporting controls, structured approvals |
 
 ## Selected delivery impact
 
