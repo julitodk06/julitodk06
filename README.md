@@ -6,7 +6,7 @@ I design and lead AI-enabled products, enterprise automation systems and digital
 
 Based in **Yerba Buena, Tucumán, Argentina**. Open to remote and international opportunities, international travel and relocation.
 
-[Portfolio](https://julitodk06.github.io/developerFolio/) · [LinkedIn](https://www.linkedin.com/in/julio-antonio-villalobo-770b22296) · [LexiaCode](https://lexiacode.com) · [Fundación Fundatur](https://fundacionfundatur.org) · [Email](mailto:juliov@lexiacode.com)
+[Portfolio](https://julitodk06.github.io/julio-villalobo-portfolio/) · [LinkedIn](https://www.linkedin.com/in/julio-antonio-villalobo-770b22296) · [LexiaCode](https://lexiacode.com) · [Fundación Fundatur](https://fundacionfundatur.org) · [Email](mailto:juliov@lexiacode.com)
 
 ## What I lead
 
